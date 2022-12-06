@@ -1,4 +1,5 @@
 # docs
 
-hello Simon i finally git push
+hello Simon
 1st edit by Simon Lau
+i finally git push
